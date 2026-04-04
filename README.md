@@ -1,4 +1,4 @@
-# 🚕 Ola Ride Booking Data Analysis
+# 🚕 Ola Bookings Data Analysis
 
 ## 📌 Overview
 
