@@ -66,3 +66,7 @@ The dataset contains ~100K+ Ola ride booking records with the following features
    ```
 4. Run the analysis notebook
 5. Open Power BI file (.pbix) to view dashboard
+
+## 📌 Conclusion
+
+This project presents a comprehensive analysis of Ola ride booking data using data preprocessing, exploratory data analysis (EDA), and visualization techniques. The interactive dashboard enables clear understanding of booking performance, revenue distribution, customer behavior, and operational efficiency. The insights derived from this analysis can support data-driven decision-making to improve service quality, reduce cancellations, and enhance overall business performance.
